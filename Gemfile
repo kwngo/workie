@@ -73,3 +73,5 @@ end
 
 gem "devise"
 gem "tailwindcss-rails", "~> 2.0"
+
+gem "dockerfile-rails", ">= 1.2", :group => :development
